@@ -19,6 +19,7 @@ Website: http://wphomes.soic.indiana.edu/ksiek/
 ## About My Project
 
 Our research project will investigate the needs of people who experience Pelvic Organ Prolapse (POP) by qualitatively analyzing the posts they create on Reddit. POP affects countless women after giving birth, impacting their daily lives, and yet most women are not aware of POP and do not get the assistance they need. Our research will dive into three main aspects: informational needs, sources of information, and rehabilitation experiences. Our approach involves Reddit scraping techniques, ethical data collection, and qualitative and quantitative analyses.  Our research aims to enhance care and support for POP patients.  
+- week of 6/3: Completed the CITI and RCR exams, created an elevator pitch about our research project, created a qualitative research checklist based on the work of Virginia Braun and Victoria Clarke, started reading, analyzing, and writing summaries on POP background pubs and CHI Reproductive Health pubs, overviewed the current scrape from Colin LeFevre
 
 
 [My Final Report](files/finalreport.pdf)
