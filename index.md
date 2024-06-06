@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-I am Lily Witte, a second-year undergraduate student at Indiana University - Bloomington. I am studying computer science and I plan to graduate Spring of 2027. 
+I am Lily Witte, a second-year undergraduate student at Indiana University - Bloomington in computer science and I plan to graduate in Spring of 2027.  I am a student-athlete at IU; I am on the Women's Swimming and Diving Team. I am traveling and competing at the Olympic Trials this summer in Knoxville, TN.
 Email: liwitte@iu.edu
 
 ## About My Mentor
