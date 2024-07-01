@@ -23,6 +23,7 @@ Our research project will investigate the needs of people who experience Pelvic 
 - week of 6/3: Completed the CITI and RCR exams, created an elevator pitch about our research project, created a qualitative research checklist based on the work of Virginia Braun and Victoria Clarke, started reading, analyzing, and writing summaries on POP background pubs and CHI Reproductive Health pubs, overviewed the current scrape from Colin LeFevre
 - week of 6/10: Completed the initial outline for the POP background, related works, and methods, continued adding citations, and reading research papers related to our study, read through the top 25 most commented-on Reddit posts in each subreddit (r/PelvicOrganProlapse, r/PelvicFloor, and r/beyondthebump)
 - week of 6/17: Completed the introduction outline, completed the full draft of our methods, started the work and partially completed the related works draft, continued to read through the top 25 most commented-on Reddit posts, looking for themes and taking notes.
+- week of 6/24: Completed the first draft of the introduction, continued editing the methods draft based on peer reviews, finished reading through the top 25 most commented-on Reddit posts and used notes to brainstorm ideas on qualitative coding, helped create the first, rough pass at the codebook with codes and definitions, set up and learned about LaTex (the website/framework we are using to write our paper)
 
 
 [My Final Report](files/finalreport.pdf)
