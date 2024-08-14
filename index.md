@@ -28,6 +28,7 @@ Our research project will investigate the needs of people who experience Pelvic 
 - week of 7/8: continued editing introduction, methods, background, and abstract based on peer reviews, continued to make edits to the codebook as a research team as we looked closer at the Reddit forums, and started coding Reddit posts and comments on Dedoose using the codebook we created
 - week of 7/15: I focused almost all of my time on coding (based on the codebook we created as a research team) the thousands of excerpts we scraped from Reddit forums and I started analyzing the data and codes and finding things that were interesting/stuck out to later create an analysis.
 - week of 7/22: I developed themes for the analysis of the data and focused in on specific analysis points, created a summary of all the data to write an analysis, and extracted a large number of quotes from our data to demonstrate each part of my analysis.
+- week of 7/29: We discussed poster designs as a team and examined examples of the good/bad, began designing/adding information to our research poster, wrote the analysis, peer-reviewed, and edited the analysis section based on reviews, and created tables for the analysis
 
 
 [My Final Report](files/finalreport.pdf)
