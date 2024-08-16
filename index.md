@@ -32,7 +32,7 @@ Our research project will investigate the needs of people who experience Pelvic 
 - week of 8/5: I continued editing the analysis, wrote an outline for the discussion, wrote the discussion, wrote the limitations, and continued working on our poster and adding information/visual details to it
 
 
-[My Final Report]([files/finalreport.pdf](https://drive.google.com/file/d/1QsmefjI9M8nQT1N6QOnIY5gNcsxpKnsP/view?usp=sharing))
+[My Final Report](https://www.conferenceharvester.com/uploads/harvester/presentations/TempDownloadStorage/POP_2024_REU.pdf)
 
 ## My Blog
 
